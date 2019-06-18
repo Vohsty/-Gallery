@@ -18,8 +18,8 @@ Picgram is a web application that has pictures for users to view. One can add pi
 ## Getting started
 
 ### Requirements
-This project was created on a debian linux platform but should work on other unix based[not limited to] sytems.
-* Tested on Debian Linux
+This project was created on a ubuntu linux platform but should work on other unix based[not limited to] sytems.
+* Tested on Ubuntu Linux
 * Python3
 
 ### Cloning the repository
